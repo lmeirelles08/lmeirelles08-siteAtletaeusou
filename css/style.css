@@ -8,7 +8,7 @@
 
 html,body{
 	height: 100%;
-	background-color: black;
+	background-color: #2c2c2e;
 }
 
 .container{
@@ -173,7 +173,7 @@ section.veiculos-destaque .container{
 
 .line-titulo h2{
 	position: relative;
-	background: black;
+	background: #2c2c2e;
 	display: inline-block;
 	text-align: center;
 	font-size: 27px;
